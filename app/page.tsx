@@ -1027,7 +1027,7 @@ export default function Portfolio() {
               © 2025 Ninja. All rights reserved.
             </p>
             <p className="text-muted-foreground text-xs md:text-sm">
-              Last updated: September 2025
+              Terms & Conditions | Privacy Policy
             </p>
           </div>
         </div>
